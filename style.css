@@ -1,0 +1,11 @@
+.fondo {
+    background-image: url(./Pictures/paisaje.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.btn-primary {
+    background-color: darkblue !important;
+}
+.f-bold {
+    font-weight: bold;
+}
